@@ -47,9 +47,10 @@ Basic user configuration to allow user in the organizations to be able to submit
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="795" alt="image" src="https://github.com/EricCarterjalil/post-install-config/assets/150721888/55ceaabd-5f65-4be6-bcfb-dbb555f630e0">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We contiuned to set up the correct SLA's we divided them in to three priorities Sev-a,b,and c andbased ton the ticket I would assign the correct sev if there was not one previously given.
 </p>
 <br />
