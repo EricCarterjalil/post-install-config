@@ -10,7 +10,7 @@ I briefly mentioned that I have some experience with OsTicket configurations in 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -29,18 +29,20 @@ I briefly mentioned that I have some experience with OsTicket configurations in 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="817" alt="image" src="https://github.com/EricCarterjalil/post-install-config/assets/150721888/e74b8ef2-6202-47e5-bd23-7357d133194f">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here is demostrating a little bit of how after we installed os ticket we were able to assign roles to the agents in the departmeant. We made sure to properly assign the correct roles such as admin and restricted certain functions based on the user.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="805" alt="image" src="https://github.com/EricCarterjalil/post-install-config/assets/150721888/d35982d0-041f-4bf2-a55c-8fd056d9a673">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Basic user configuration to allow user in the organizations to be able to submit tickets. I gave them a username and password from there these users would submit serveral tickets where later I would assign to the correct SLA and team to respond.
 </p>
 <br />
 
